@@ -1,0 +1,94 @@
+<!-- Mark Tenney , last editied Dec. 15 2021-->
+
+
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    float: inline-start;
+}
+
+h4{
+    font-family: sans-serif;
+    font-weight: 600 ;
+    color: rgb(38, 10, 197);
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-weight: 580;
+    text-decoration: underline; 
+}
+
+.Header{
+    font-family: Verdana, Geneva, Tahoma;
+    font-size: 30px; 
+    color: navy;
+}
+
+.Resume{
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.GoldText{
+    color: gold;
+    font-family: sans-serif;
+}
+
+.Serious{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color: darkslateblue;
+}
+
+.Welcome{
+    text-decoration: underline;
+    font-weight: 200;
+}
+
+.JobTitle{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    color: gray;
+}
+
+.Underline{
+    text-decoration: underline;
+}
+
+
+
+
+.RegFont {
+    font: black;
+}
+
+.WhiteFont{
+    font-family: sans-serif white;
+    font-weight: 300;
+    font-size: 32px;
+}
+
+.Africa{
+    font-family: papyrus;
+    font-weight: bolder;
+}
+
+.French {
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+
+
+
+.StoryHeader{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 48px;
+    color: darkcyan;
+}
+
+
+

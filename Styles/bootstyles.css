@@ -1,0 +1,123 @@
+.BgPhoto{
+    background-image: url('../images/binary.jpeg');
+}
+
+.Absolute{
+    position: absolute;
+}
+
+a{
+    color: rgb(223, 240, 243);
+    background-color: darkblue;
+    border: solid;border-width: thin;
+    padding: 2px;
+    text-decoration: none;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif white;
+    font-size: 20px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif rgb(79, 216, 240);
+    font-weight: 800;
+}
+
+.Header{
+    border: solid; border-color: snow; border-width: 2px;
+    padding: 2px;
+    top: 5px; left: 5px; right: 5px;
+    height: 120px;
+    position: absolute;
+}
+
+.IndexOne{
+    z-index: 1;
+}
+
+.IndexTwo{
+    z-index: 2;
+}
+
+.SubBody{
+    float: left;
+}
+
+.Caption{
+    border: skyblue; border: solid; border-width: 1px;
+    background-color: darkblue;
+    padding: 2.5px;
+}
+
+.Footer{
+    border: solid; border-color: rgb(129, 151, 184); border-width: 1px;
+    border-left: none; border-right: none; border-bottom: none;
+    bottom: 2px;
+    height: 50px;
+    left: 1px; right: 1px;
+    padding-top: 2px;
+    position: fixed;
+    background-color: rgb(152, 225, 247);
+}
+
+.MiddleOne{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif white ;
+    font-size: 20px;
+    bottom: 50px;
+    right: 450px;
+    position: absolute;
+    border: none;
+}
+
+.MiddleTwo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif white ;
+    font-size: 20px;
+    bottom: 30px;
+    right: 400px;
+    position: absolute;
+    border: none;
+}
+
+.Button{
+    background-color: navy;
+    border: solid silver 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 520;
+    font-size: 18px;
+    text-decoration: none;
+    color: snow;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    position: absolute;
+}
+
+.TabOne{
+    top: 20px;
+    right: 430px;
+}
+
+.TabTwo{
+    top: 20px;
+    right: 315px;
+    ;
+}
+
+.TabThree{
+    top: 20px;
+    right: 214px;
+}
+
+.TabFour{
+    top: 20px;
+    right: 116px;
+}
+
+.TabFive{
+    top: 20px;
+    right: 20px;
+}
